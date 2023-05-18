@@ -1,5 +1,5 @@
 ---
-title: Vityafaszapici
+title: aifrauddeticion
 emoji: 🔥
 colorFrom: indigo
 colorTo: indigo
